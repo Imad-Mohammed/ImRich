@@ -1,0 +1,2 @@
+# ImRich
+// first app
